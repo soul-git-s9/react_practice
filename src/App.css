@@ -1,0 +1,9 @@
+body{margin:0; padding:0;}
+header{display:flex; width:100%; text-align:center; justify-content:space-between;}
+header .menuOne{text-align:left; line-height:40px;}
+header .menuTwo{text-align:right; line-height:40px;}
+header li{display:inline-block; width:150px;}
+nav{display:inline-block; width:200px;}
+article{display:block; height:800px; background-color:gray;}
+article h2{margin-top:0; padding-top:240px; font-size:20px;}
+article {text-align:center; font-size:50px;}
